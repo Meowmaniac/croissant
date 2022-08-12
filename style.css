@@ -1,0 +1,8 @@
+body {
+  background-color: rgba(204, 204, 250, 0.701);
+  text-align: center;
+}
+
+.photo {
+  max-width: 800px;
+}
